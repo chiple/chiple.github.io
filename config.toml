@@ -2,3 +2,5 @@ theme = "ananke"
 baseURL = "http://chiple.github.io/profile"
 languageCode = "en-us"
 title = "test on hugo"
+cononifurls = true
+publishDir = "docs"
