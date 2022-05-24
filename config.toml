@@ -4,3 +4,8 @@ languageCode = "ja-jp"
 title = "test on hugo"
 cononifurls = true
 publishDir = "docs"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+archive = "archives"
