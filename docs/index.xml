@@ -2,9 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on hugo</title>
-    <link>http://chiple.github.io/profile/</link>
+    <link>http://chiple.github.io/</link>
     <description>Recent content on test on hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://chiple.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 24 May 2022 03:57:40 +0900</lastBuildDate><atom:link href="http://chiple.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://chiple.github.io/post/test/</link>
+      <pubDate>Tue, 24 May 2022 03:57:40 +0900</pubDate>
+      
+      <guid>http://chiple.github.io/post/test/</guid>
+      <description> testy  level1
+testy level2  how&amp;#39;s this
+ table
+   what about this         this          </description>
+    </item>
+    
+    <item>
+      <title>Testy</title>
+      <link>http://chiple.github.io/post/testy/</link>
+      <pubDate>Tue, 24 May 2022 03:56:21 +0900</pubDate>
+      
+      <guid>http://chiple.github.io/post/testy/</guid>
+      <description>oh hi</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>http://chiple.github.io/post/hello/</link>
+      <pubDate>Tue, 24 May 2022 03:52:32 +0900</pubDate>
+      
+      <guid>http://chiple.github.io/post/hello/</guid>
+      <description> yaya test  </description>
+    </item>
+    
   </channel>
 </rss>

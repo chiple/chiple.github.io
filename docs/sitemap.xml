@@ -2,10 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://chiple.github.io/profile/categories/</loc>
+    <loc>http://chiple.github.io/post/</loc>
+    <lastmod>2022-05-24T03:57:40+09:00</lastmod>
   </url><url>
-    <loc>http://chiple.github.io/profile/tags/</loc>
+    <loc>http://chiple.github.io/post/test/</loc>
+    <lastmod>2022-05-24T03:57:40+09:00</lastmod>
   </url><url>
-    <loc>http://chiple.github.io/profile/</loc>
+    <loc>http://chiple.github.io/</loc>
+    <lastmod>2022-05-24T03:57:40+09:00</lastmod>
+  </url><url>
+    <loc>http://chiple.github.io/post/testy/</loc>
+    <lastmod>2022-05-24T03:56:21+09:00</lastmod>
+  </url><url>
+    <loc>http://chiple.github.io/post/hello/</loc>
+    <lastmod>2022-05-24T03:52:32+09:00</lastmod>
+  </url><url>
+    <loc>http://chiple.github.io/categories/</loc>
+  </url><url>
+    <loc>http://chiple.github.io/tags/</loc>
   </url>
 </urlset>

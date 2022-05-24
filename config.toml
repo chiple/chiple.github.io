@@ -1,6 +1,6 @@
 theme = "ananke"
-baseURL = "http://chiple.github.io/profile"
-languageCode = "en-us"
+baseURL = "http://chiple.github.io/"
+languageCode = "ja-jp"
 title = "test on hugo"
 cononifurls = true
 publishDir = "docs"
