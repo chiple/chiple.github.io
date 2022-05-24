@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on test on hugo</title>
+    <link>http://chiple.github.io/post/</link>
+    <description>Recent content in Posts on test on hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 24 May 2022 03:57:40 +0900</lastBuildDate><atom:link href="http://chiple.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://chiple.github.io/post/test/</link>
+      <pubDate>Tue, 24 May 2022 03:57:40 +0900</pubDate>
+      
+      <guid>http://chiple.github.io/post/test/</guid>
+      <description> testy  level1
+testy level2  how&amp;#39;s this
+ table
+   what about this         this          </description>
+    </item>
+    
+    <item>
+      <title>Testy</title>
+      <link>http://chiple.github.io/post/testy/</link>
+      <pubDate>Tue, 24 May 2022 03:56:21 +0900</pubDate>
+      
+      <guid>http://chiple.github.io/post/testy/</guid>
+      <description>oh hi</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>http://chiple.github.io/post/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chiple.github.io/post/hello/</guid>
+      <description> yoro  how&amp;#39;s this
+   yay         yasdf        @startuml inu -&amp;gt; suki @enduml    </description>
+    </item>
+    
+  </channel>
+</rss>
